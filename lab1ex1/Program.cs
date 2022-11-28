@@ -8,6 +8,7 @@ namespace lab1ex1
         {
             /* Scrieti un program care citind de la tastaura cele trei dimensiuni ale unui
             paralelipiped dreptunghic, va afisa volumul lui */
+
             Console.WriteLine("Calculam volumul unui paralelipiped dreptunghic.");
             Console.WriteLine("Introduceti lungime");
 
